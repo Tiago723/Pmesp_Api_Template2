@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-LBBU0BC;Initial Catalog=db_Pmesp_Api_Template2</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>2879c4ce-173a-49ce-be9b-7f45dcffe6fa</DataSourceID>
+</RptDataSource>

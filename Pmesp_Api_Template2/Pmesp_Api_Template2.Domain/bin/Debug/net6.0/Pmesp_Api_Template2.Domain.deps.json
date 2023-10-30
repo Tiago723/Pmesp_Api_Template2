@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pmesp_Api_Template2.Domain/1.0.0": {
+        "runtime": {
+          "Pmesp_Api_Template2.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pmesp_Api_Template2.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

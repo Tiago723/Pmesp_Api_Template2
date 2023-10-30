@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pmesp_Api_Template2.Api.props" />
+</Project>
